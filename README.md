@@ -1,2 +1,4 @@
 # Bulma-Portf
-Portfolio to pratice Bulma
+Still in development.
+
+Just fixing the knowledge i got from the bulma documentacion.
